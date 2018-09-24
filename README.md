@@ -2,6 +2,8 @@
 
 This is a Web Component to display information from a Github profile.
 
+<img src="https://i.imgur.com/nXSImBi.png" />
+
 How to see it in action:
 
 ```
