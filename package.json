@@ -1,11 +1,11 @@
 {
-  "name": "web-components-practice",
+  "name": "github-user",
   "version": "0.0.1",
-  "description": "Web components practice",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
-  "unpkg": "dist/index.min.js",
-  "types": "dist/index.d.ts",
+  "description": "Github User web component",
+  "main": "dist/github-user.js",
+  "module": "dist/github-user.js",
+  "unpkg": "dist/github-user.min.js",
+  "types": "dist/github-user.d.ts",
   "directories": {
     "test": "test"
   },
