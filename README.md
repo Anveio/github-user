@@ -1,9 +1,17 @@
 # Github User Web Component
 
+This is a Web Component to display information from a Github profile.
+
 How to see it in action:
 
 ```
 yarn start
+```
+
+Once/if I actually publish, import it into your project and use it as you would an HTML element.
+
+```
+<github-user id="anveio"></github-user>
 ```
 
 
